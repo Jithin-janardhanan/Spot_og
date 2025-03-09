@@ -20,10 +20,9 @@ Spot App is a **service provider application** built using **Flutter**, utilizin
 - **Firebase** (Firestore, Authentication, Storage)
 - **Provider** (State Management)
 - **Mapbox** (for maps & navigation)
-- **Hive Database** (for local storage)
+
 
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have Flutter installed:
-```sh
-flutter --version
+
