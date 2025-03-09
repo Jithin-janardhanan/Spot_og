@@ -1,16 +1,29 @@
 # spot
 
-A new Flutter project.
+# 🚀 Spot App
 
-## Getting Started
+Spot App is a **service provider application** built using **Flutter**, utilizing **Firebase** as the database and **Provider** for state management.
 
-This project is a starting point for a Flutter application.
+## 📌 Features
+- 🔍 Browse and book various services
+- 📍 Integrated **Mapbox** for location-based services
+- 🔔 Real-time notifications for updates
+- 📊 Admin panel for service management
+- 📦 Secure user authentication with Firebase
+- 💰 Payment gateway integration (if applicable)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
+(Upload app screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- **Flutter** (Dart)
+- **Firebase** (Firestore, Authentication, Storage)
+- **Provider** (State Management)
+- **Mapbox** (for maps & navigation)
+- **Hive Database** (for local storage)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+### Prerequisites
+Ensure you have Flutter installed:
+```sh
+flutter --version
